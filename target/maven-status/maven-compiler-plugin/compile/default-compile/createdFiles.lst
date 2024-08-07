@@ -1,6 +1,0 @@
-com\example\cardapio\food\Food.class
-com\example\cardapio\food\FoodRepository.class
-com\example\cardapio\CardapioApplication.class
-com\example\cardapio\controller\FoodController.class
-com\example\cardapio\food\FoodResponseDTO.class
-com\example\cardapio\food\FoodRequestDTO.class
